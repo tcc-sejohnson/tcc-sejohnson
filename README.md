@@ -6,7 +6,7 @@ Hi there! I'm a software developer specializing in TypeScript, Svelte, C#, and G
 ### Recent cool stuff
 
 - Authored [a PR for handling environment variables in SvelteKit](https://github.com/sveltejs/kit/pull/5663). This includes build-time analysis to prevent accidentally bundling private environment variables in client-side code!
-- Authored [a few](https://github.com/sveltejs/kit/pull/6422) [different](https://github.com/sveltejs/kit/pull/6454) [PRs](https://github.com/sveltejs/kit/pull/6623) enabling users to declare server-only modules in SvelteKit. This prevents them from ever being imported on the client!
+- Authored [a few](https://github.com/sveltejs/kit/pull/6422) [different](https://github.com/sveltejs/kit/pull/6623) [PRs](https://github.com/sveltejs/kit/pull/6646) enabling users to declare server-only modules in SvelteKit. This prevents them from ever being imported on the client!
 
 ### Stuff I do
 
