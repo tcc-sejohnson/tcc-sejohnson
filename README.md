@@ -10,6 +10,7 @@ Hi there! I'm a software developer specializing in TypeScript, Svelte, C#, and G
 
 ### Stuff I do
 
+- Work at Vercel
 - Member of [Svelte](https://github.com/sveltejs) specializing in SvelteKit (1.0 here we come, baby!)
 - Big time cyclist, both on and off the road
 
